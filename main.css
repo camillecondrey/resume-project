@@ -1,0 +1,17 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+
+header {
+	text-align: center;
+}
+
+address {
+	text-align: center;
+}
+
+main {
+	padding: 50px;
+}
